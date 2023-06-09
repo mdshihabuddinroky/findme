@@ -11,3 +11,5 @@
 🌐 This project was designed for learning purposes, so the focus was more on functionality than aesthetics. But hey, we're open to collaboration! If you're interested in developing face recognition apps or need assistance, feel free to reach out. Let's bring loved ones back together! 🤗
 
 #FaceRecognition #Flutter #Python #LostAndFound #ReuniteLovedOnes
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7072638292248170496?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
