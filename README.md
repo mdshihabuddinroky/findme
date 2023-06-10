@@ -2,7 +2,7 @@
 
 🔍🤝 Helping Reunite Loved Ones with Flutter & Python! 🤝🔍
 
-![FindMe App](https://github.com/mdshihabuddinroky/findme/assets/99485727/d2e817ed-a916-4703-998c-3d5e33c07ee3)
+https://github.com/mdshihabuddinroky/findme/assets/99485727/d2e817ed-a916-4703-998c-3d5e33c07ee3
 
 ## Introduction
 
